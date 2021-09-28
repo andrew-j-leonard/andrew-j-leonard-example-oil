@@ -1,5 +1,5 @@
 name: "ajl-site"
-output_dir: "../andrew-j-leonard-bin"
+output_dir: "../andrew-j-leonard.github.io/examples/oil"
 navbar:
   title: "Example"
   left:
